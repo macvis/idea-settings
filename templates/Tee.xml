@@ -1,0 +1,42 @@
+<templateSet group="Tee">
+  <template name="syso" value="System.out.println(&quot;$END$&quot;);" description="Print a String line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args){&#10;    &#10;}" description="write main method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try{&#10;    &#10;}catch(BusinessException e){&#10;    logger.info(&quot;$END$ -&gt; {}&quot;, e.getMessage());&#10;}" description="try-catch block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="@rm" value="@RequestMapping(value = &quot;$END$&quot;, method = {RequestMethod.GET, RequestMethod.POST})" description="RequestMapping, add post and get method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="contr" value="public void $END$(, HttpServletResponse response){&#10;    try{&#10;        //TODO &#10;    }catch(Exception e){&#10;        logger.debug(&quot;&quot;, e);&#10;    }finally{&#10;        this.backResult(response);&#10;    }&#10;}" description="add Controller" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prfs" value="private final static String " description="final String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="para" value="Map&lt;String, Object&gt; params" description="Params Map" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger logger = LoggerFactory.getLogger($END$.class);" description="write static logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

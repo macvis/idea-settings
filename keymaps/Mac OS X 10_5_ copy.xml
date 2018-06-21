@@ -10,7 +10,6 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
-    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="Refresh" />
   <action id="Rerun" />

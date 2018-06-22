@@ -19,7 +19,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="contr" value="public void $END$(, HttpServletResponse response){&#10;    try{&#10;        //TODO &#10;    }catch(Exception e){&#10;        logger.debug(&quot;&quot;, e);&#10;    }finally{&#10;        this.backResult(response);&#10;    }&#10;}" description="add Controller" toReformat="false" toShortenFQNames="true">
+  <template name="contr" value="public ResultDTO $END$()&#10;{&#10;&#9;try&#10;&#9;{&#10;&#9;&#9;//TODO&#10;&#9;}&#10;&#9;catch (Exception e)&#10;&#9;{&#10;&#9;&#9;logger.info(&quot;&quot;, e);&#10;&#9;}&#10;}" description="add Controller" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

@@ -1,4 +1,4 @@
-<code_scheme name="pay_team">
+<code_scheme name="pay_team" version="173">
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
       <package name="java" withSubpackages="true" static="false" />
@@ -14,6 +14,26 @@
     </value>
   </option>
   <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+  <JavaCodeStyleSettings>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+        <package name="" withSubpackages="true" static="true" />
+      </value>
+    </option>
+    <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+  </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />

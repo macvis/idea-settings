@@ -9,12 +9,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="try" value="try{&#10;    &#10;}catch(BusinessException e){&#10;    logger.info(&quot;$END$ -&gt; {}&quot;, e.getMessage());&#10;}" description="try-catch block" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try{&#10;    &#10;}catch(Exception e){&#10;    log.info(&quot;$END$&quot;, e);&#10;}" description="try-catch block" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="@rm" value="@RequestMapping(value = &quot;$END$&quot;, method = {RequestMethod.GET, RequestMethod.POST})" description="RequestMapping, add post and get method" toReformat="false" toShortenFQNames="true">
+  <template name="@rm" value="@RequestMapping(value = &quot;$END$&quot;)" description="RequestMapping, add post and get method" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

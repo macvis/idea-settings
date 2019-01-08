@@ -15,6 +15,9 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>

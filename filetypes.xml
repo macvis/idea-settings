@@ -5,10 +5,8 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="AccountRechargeServiceTest" type="PLAIN_TEXT" />
       <mapping pattern="cgb_20170829_001" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="crl" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="boss_global_applies" type="XML" />
     </extensionMap>
   </component>

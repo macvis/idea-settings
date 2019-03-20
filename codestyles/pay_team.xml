@@ -15,6 +15,8 @@
   </option>
   <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="java" withSubpackages="true" static="false" />
@@ -32,7 +34,14 @@
     <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   </JavaCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />

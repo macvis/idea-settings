@@ -14,8 +14,8 @@
     <mask>*.JAVA</mask>
     <mask>*Test</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.html</mask>
   </component>
 </application>

@@ -10,9 +10,9 @@
     <mask>*.mxml</mask>
     <mask>*.JAVA</mask>
     <mask>*Test</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>

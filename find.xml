@@ -12,9 +12,9 @@
     <mask>*.mxml</mask>
     <mask>*.JAVA</mask>
     <mask>*Test</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>

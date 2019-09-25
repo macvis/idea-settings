@@ -1,5 +1,9 @@
 <application>
   <component name="TipsStore">
-    <option name="firstStartUp" value="false" />
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="boss-module" firstStartUp="false" />
+    <entry projectName="customer-web" firstStartUp="false" />
+    <entry projectName="epay-help-parent" firstStartUp="false" />
+    <entry projectName="platform-boss" firstStartUp="false" />
   </component>
 </application>

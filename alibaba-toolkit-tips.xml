@@ -7,6 +7,7 @@
     <entry projectName="epay-help-parent" firstStartUp="false" />
     <entry projectName="epay-platform-info" firstStartUp="false" />
     <entry projectName="global" firstStartUp="false" />
+    <entry projectName="global-admin" firstStartUp="false" />
     <entry projectName="platform-boss" firstStartUp="false" />
   </component>
 </application>

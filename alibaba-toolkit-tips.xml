@@ -5,6 +5,7 @@
     <entry projectName="customer-web" firstStartUp="false" />
     <entry projectName="epay-config" firstStartUp="false" />
     <entry projectName="epay-help-parent" firstStartUp="false" />
+    <entry projectName="global" firstStartUp="false" />
     <entry projectName="platform-boss" firstStartUp="false" />
   </component>
 </application>

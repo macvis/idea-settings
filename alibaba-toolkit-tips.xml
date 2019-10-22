@@ -10,6 +10,7 @@
     <entry projectName="global-admin" firstStartUp="false" />
     <entry projectName="platform-boss" firstStartUp="false" />
     <entry projectName="provision" firstStartUp="false" />
+    <entry projectName="provisionSchedule" firstStartUp="false" />
     <entry projectName="tee.0.0.0.1" firstStartUp="false" />
   </component>
 </application>

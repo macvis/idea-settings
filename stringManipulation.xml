@@ -1,10 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="805" />
-        <option name="lastNaggingDate" value="1546509849090" />
-      </DonationNagger>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="zh_CN_#Hans" />
+      </SortSettings>
     </option>
   </component>
 </application>

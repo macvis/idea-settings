@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Applications/JetBrains Toolbox/DataGrip.app" firstStartUp="false" />
     <entry projectName="$USER_HOME$/Netease/Projects/local/boss-module" firstStartUp="false" />
     <entry projectName="$USER_HOME$/Netease/Projects/local/customer-web" firstStartUp="false" />
     <entry projectName="$USER_HOME$/Netease/Projects/local/epay-config" firstStartUp="false" />

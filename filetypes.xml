@@ -4,6 +4,7 @@
       <mapping pattern="AccountRechargeServiceTest" type="PLAIN_TEXT" />
       <mapping pattern="cgb_20170829_001" type="PLAIN_TEXT" />
       <mapping ext="crl" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

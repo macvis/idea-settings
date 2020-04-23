@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Test Files" />
-    <option name="defaultScopeName" value="Project Test Files" />
-    <option name="SEARCH_SCOPE" value="Project Test Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -15,5 +16,6 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>

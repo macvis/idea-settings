@@ -1,0 +1,7 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Tee/myCode" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/fromGitHub/one-mall/onemall" startUpFlag="FIRST" />
+  </component>
+</application>

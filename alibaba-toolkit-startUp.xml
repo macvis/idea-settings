@@ -6,5 +6,8 @@
     <entry projectPath="$USER_HOME$/fromGitHub/one-mall/onemall" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/智云/repo/local/cis-center" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/智云/repo/local/cis-promotion" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/智云/repo/local/cis-schedule" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/智云/repo/local/cis-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/智云/repo/local/cis-wechat" startUpFlag="FIRST" />
   </component>
 </application>

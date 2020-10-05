@@ -3,18 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.JAVA</mask>
-    <mask>*Test</mask>
-    <mask>*.js</mask>
-    <mask>.java</mask>
-    <mask>*.html</mask>
-    <mask>*.ftl</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
+    <mask>xml</mask>
   </component>
 </application>

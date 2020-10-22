@@ -7,6 +7,11 @@
             <EdasServiceConnectModel />
           </value>
         </entry>
+        <entry key="cis-promotion">
+          <value>
+            <EdasServiceConnectModel />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

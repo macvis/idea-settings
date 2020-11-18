@@ -9,6 +9,7 @@
     <entry projectPath="$USER_HOME$/repo/local/cis-gen" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/repo/local/cis-operate-portal" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/repo/local/cis-promotion" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/repo/local/cis-schedule" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/repo/local/cis-service" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/repo/local/cis-wechat" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/repo/local/city-partner" startUpFlag="FIRST" />

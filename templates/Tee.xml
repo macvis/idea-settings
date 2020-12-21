@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="try" value="try{&#10;    &#10;}catch(BusinessException | IllegalArgumentException e){&#10;    log.info(e.getMessage());&#10;    return null;&#10;}" description="try-catch block" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try{&#10;    &#10;}catch(Exception e){&#10;    log.error(&quot;invoke $END$ fail&quot;, e);&#10;}" description="try-catch block" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

@@ -23,6 +23,7 @@
     <entry projectPath="$USER_HOME$/vpgame/repo/local/gluttony" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/vpgame/repo/local/libai-api" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/vpgame/repo/local/lyj-framework" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/vpgame/repo/local/lyj-starters" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/智云/repo/local/cis-operate-portal" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/智云/repo/local/cis-service" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/智云/repo/local/cis-wechat" startUpFlag="FIRST" />

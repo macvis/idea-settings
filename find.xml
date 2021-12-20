@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <mask>xml</mask>
     <mask>*.yml</mask>
     <mask>*.css</mask>
@@ -12,5 +13,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>

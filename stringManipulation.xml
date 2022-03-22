@@ -1,9 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="sortSettings">
-      <SortSettings>
-        <option name="collatorLanguageTag" value="zh_CN_#Hans" />
-      </SortSettings>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToScreamingSnakeCaseOrCamelCaseAction" />
+      </UniversalActionModel>
     </option>
   </component>
 </application>

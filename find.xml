@@ -6,7 +6,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>xml</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,6 +13,7 @@
     <mask>*.sql</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
